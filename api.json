@@ -1,0 +1,87 @@
+[
+    {
+        "precio":0 ,
+        "id":1,
+        "title":"The Witcher/Wild Hunt 3",
+        "imagen":"assets/img/g1.jpg"
+
+    },
+    {
+        "precio":0 ,
+        "id":2,
+        "title":"Skyrim/The Elder Scroll V",
+        "imagen":"assets/img/g2.jpg"
+
+    },
+    {
+        "precio":0 ,
+        "id":3,
+        "title":"Call of Duty/Infinite Warfare",
+        "imagen":"assets/img/g3.jpg"    
+
+    },
+    {
+        "precio":15 ,
+        "id":4,
+        "title":"Call of Duty/Black ops",
+        "imagen": "assets/img/a1.jpg"
+
+    },
+    {
+        "precio":25 ,
+        "id":5,
+        "title":"Call of Duty/Black ops 2" ,
+        "imagen":"assets/img/a2.jpg"
+
+    },
+    {
+        "precio":40 ,
+        "id":6,
+        "title":"Call of Duty/Black ops 3",
+        "imagen":"assets/img/a3.jpg"
+
+    },
+    {
+        "precio":5 ,
+        "id":7,
+        "title":"The Walking Dead",
+        "imagen":"assets/img/p1.webp"
+
+    },
+    {
+        "precio":2 ,
+        "id":8,
+        "title":"Machinarium",
+        "imagen":"assets/img/p2.jpg"
+
+    },
+    {
+        "precio":3 ,
+        "id":9,
+        "title":"Monument Valley",
+        "imagen":"assets/img/p3.png"
+
+    },
+    {
+        "precio":10 ,
+        "id":10,
+        "title":"Stray",
+        "imagen":"assets/img/av1.jpg"
+
+    },
+    {
+        "precio":30 ,
+        "id":11,
+        "title":"God Of War: Ragnarok",
+        "imagen":"assets/img/av2.jpg"
+
+    },
+    {
+        "precio":27 ,
+        "id":12,
+        "title":"Grand Theft Auto v",
+        "imagen":"assets/img/av3.jpg"
+
+    }
+    
+]
